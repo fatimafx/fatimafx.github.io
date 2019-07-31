@@ -1,0 +1,17 @@
+p {
+  color: rgb(0, 0, 255)
+  background-color: red;
+}
+
+#mycorner {
+  background-color: mint;
+  font-size: 64;
+  font-family: monospace;
+
+}
+
+
+body  {
+   background-color: light blue;
+
+ }
